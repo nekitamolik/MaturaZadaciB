@@ -1,0 +1,60 @@
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Matura_Zadatak_B16.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Matura_Zadatak_B16.pdb
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Newtonsoft.Json.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.Formatting.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.WebRequest.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Helpers.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.WebHost.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Mvc.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Razor.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Razor.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Newtonsoft.Json.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.Formatting.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.WebRequest.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Helpers.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.WebHost.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Mvc.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Razor.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Razor.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\obj\Debug\Matura_Zadatak_B16.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\obj\Debug\Matura_Zadatak_B16.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\New folder\Matura_Zadatak_B16\Matura_Zadatak_B16\obj\Debug\Matura_Zadatak_B16.pdb
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Matura_Zadatak_B16.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Matura_Zadatak_B16.pdb
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Newtonsoft.Json.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.Formatting.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.WebRequest.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Helpers.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.WebHost.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Mvc.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Razor.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Razor.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\Newtonsoft.Json.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.Formatting.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Net.Http.WebRequest.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Helpers.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Http.WebHost.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Mvc.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.Razor.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\bin\System.Web.WebPages.Razor.xml
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\obj\Debug\Matura_Zadatak_B16.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\obj\Debug\Matura_Zadatak_B16.dll
+C:\Users\Velja\Desktop\Matura\B16\Matura\B16\Matura_Zadatak_B16\Matura_Zadatak_B16\obj\Debug\Matura_Zadatak_B16.pdb

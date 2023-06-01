@@ -1,0 +1,51 @@
+﻿@{
+    ViewBag.Title = "Display";
+}
+@using Matura_Zadatak_B16.Models;
+@model IEnumerable<RasporedModel>
+<link rel="stylesheet" href="~/CSS/StyleSheet.css" />
+<div class="menu">
+    <ul>
+        <li>@Html.ActionLink("Raspored", "Display", "Home")</li>
+        <li>@Html.ActionLink("Ucitaj XML", "Upload", "Home")</li>
+    </ul>
+</div>
+<div class="body">
+    <h1>Raspored Casova</h1>
+    <br />
+    <table id="raspored">
+        <tr class="row">
+            <th>Rbr</th>
+            <th>Ponedeljak</th>
+            <th>Utorak</th>
+            <th>Sreda</th>
+            <th>Cetvrtak</th>
+            <th>Petak</th>
+        </tr>
+        @for (int i = 1; i <= 7; i++)
+        {
+            <tr class="row">
+                <td>@i.</td>
+                @foreach (var item in Model)
+                {
+                    if (item.RBr == i)
+                    {
+                        if (string.IsNullOrEmpty(item.Predmet))
+                        {
+                    <td>/</td>
+                        }
+                        else
+                        {
+                    <td>@Html.DisplayFor(modelItem => item.Predmet)</td>
+                        }
+                    }
+
+                }
+            </tr> 
+        }
+    </table>
+    <br />
+    <br />
+    <br />
+    <label>&copy; 2021 - ETS "Nikola Tesla" Nis</label>
+</div>

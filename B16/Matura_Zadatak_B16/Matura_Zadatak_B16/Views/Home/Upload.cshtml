@@ -1,0 +1,31 @@
+﻿@{
+    ViewBag.Title = "Upload";
+}
+<link rel="stylesheet" href="~/CSS/StyleSheet.css" />
+<div class="menu">
+    <ul>
+        <li>@Html.ActionLink("Raspored", "Display", "Home")</li>
+        <li>@Html.ActionLink("Ucitaj XML", "Upload", "Home")</li>
+    </ul>
+</div>
+<div class="body">
+    <h1>Ucitaj XML fajl</h1>
+    <br />
+    <form id="form" method="POST" action="@Url.Action("UploadFile", "Home")" enctype="multipart/form-data">
+        <table id="upload">
+            <tr>
+                <td>XML Datoteka</td>
+                <td>
+                    <input id="File" type="file" name="file" value="Izaberi" /></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <input id="Submit" type="submit" value="Ucitaj" /></td>
+            </tr>
+        </table>
+    </form>
+    <br />
+    <br />
+    <br />
+    <label>&copy; 2021 - ETS "Nikola Tesla" Nis</label>
+</div>
