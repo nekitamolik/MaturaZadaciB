@@ -1,0 +1,130 @@
+﻿*{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+
+.header {
+    width:100vw;
+    height:10vh;
+    background-color:#2119ca;
+}
+
+    .header ul {
+        font-size:0;
+    }
+
+        .header ul li {
+            font-size:18px;
+            color:white;
+            border-left:1px solid white;
+            border-collapse:collapse;
+            display:inline-block;
+            text-align:center;
+            line-height:10vh;
+            width:200px;
+        }
+
+.content {
+    min-height:80vh;
+    width:100vw;
+}
+
+#PorukaForm {
+    margin:5%;
+}
+
+    #PorukaForm td {
+        padding:5px 0px;
+        vertical-align:top;
+    }
+
+.search {
+    padding-top:30px;
+    height:10%;
+    width:100%;
+}
+
+    .search table {
+        width:35%;
+        margin-left:2%;
+        margin-right:60%;
+    }
+
+        .search table td {
+            text-align:center;
+        }
+
+.label {
+    font-size:16px;
+}
+
+
+
+.GV {
+    padding-top:30px;
+    height:90%;
+    width:100%;
+    margin-left:2%;
+}
+
+#GV {
+    border:none;
+    width:80px;
+}
+
+    #GV th {
+        color:black;
+        font-weight:bold;
+        font-size:18px;
+    }
+
+    #GV td {
+        color:black;
+        font-size:14px;
+    }
+
+    #GV table,th, tr, td {
+        border:none;
+    }
+
+.footer {
+    width:100vw;
+    height:10vh;
+    background-color:#2119ca; 
+}
+
+    .footer table {
+        width:95%;
+        height:100%;
+        margin-left:5%;
+    }
+
+        .footer table td {
+            font-size:18px;
+            color:white;
+             text-align:center;
+            line-height:10vh;
+            width:200px;
+        }
+
+            .footer table td:hover {
+                background-color:white;
+                color:black;
+            }
+
+            .footer table td:first-child {
+                width:auto;
+                text-align:left;
+                
+            }
+
+                .footer table td:first-child:hover {
+                    background-color:#2119ca;
+                    color:white;
+                }
+
+            .footer table td a {
+                color:inherit;
+                text-decoration:underline;
+            }
