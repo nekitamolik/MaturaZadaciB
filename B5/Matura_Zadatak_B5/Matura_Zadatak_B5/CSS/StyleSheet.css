@@ -1,0 +1,177 @@
+﻿
+
+* {
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+
+.header {
+    background-color:#FFDB70;
+    height:10vh;
+    width:100vw;
+    text-align:center;
+
+}
+    .header h1 {
+        color:#9CB1D3;
+    font-size:40px;
+    font-weight:bold;
+    line-height:10vh;
+    }
+
+.menu {
+    background-color:#CBF1BB;
+    width:100vw;
+    height:4vh;
+    text-align:center;
+}
+    .menu ul {
+        list-style:none;
+        height:100%;
+        width:100%; 
+    }
+        .menu ul li {
+            display:inline-block;
+            height:100%;
+            width:100px;
+            padding-left:50px;
+            padding-right:50px;
+            background-color:#CBF1BB;
+            color:#639438;
+            line-height:4vh;
+        }
+
+            .menu ul li:hover {
+            background-color:#639438;
+            color:#FFDB70;
+            }
+            .menu ul li a {
+                text-decoration:none;
+                font-size:22px;
+                color:inherit;
+            }
+
+
+.content {
+    background-color:#FFDB70;
+    height:80vh;
+    width:100vw;
+}
+
+.headertext {
+    background-color:#FFDB70;
+    height:5%;
+    width:100%;
+    text-align:center;
+}
+
+    .headertext h2 {
+        padding:10px;
+        font-size:32px;
+        font-weight:bold;
+        color:#9CB1D3;
+        line-height:4vh;
+    }
+
+.table {
+    height:95%;
+    width:65%;
+    float:right;
+}
+
+    .table table {
+        margin-top:5vh;
+        height:80%;
+        width:50%;
+        float:left;
+    }
+
+    .table table, td {
+        border:1px double #9CB1D3;
+        border-spacing:0;
+    }
+        .table table th {
+        border:1px double #FFDB70;
+        border-spacing:0;
+        } 
+
+        .table table td {
+            height:70px;
+            width:100px;
+            text-align:center;
+        }
+
+    .table table, th {
+        color:#FFDB70;
+        height:60px;
+    }
+
+
+
+.darkgreen {
+     background-color:#639438;
+}
+
+.lightgreen {
+    background-color:#CBF1BB;
+}
+
+.text {
+    color:black;
+    font-size:40px;
+}
+    .image img {
+        width:70px;
+        height:60px;
+        object-fit:fit;
+        border-radius:15%;
+    }
+.sound {
+    display:inline-flexbox;
+    flex-direction:column;
+}
+
+    .sound img {
+        padding:5px;
+        height:60px;
+        width:70px;
+    }
+
+    .sound label {
+        height:10%;
+        font-size:18px;
+        color:blue;
+        text-decoration:underline;
+    }
+
+.verticaltext {
+    height:95%;
+    width:30%;
+    float:left;
+}
+
+    .verticaltext p {
+        color:#639438;
+        margin-top:10vh;
+        font-size:58px;
+        text-shadow:5px 5px 15px #639438;
+        letter-spacing:10px;
+        writing-mode: vertical-rl;
+        text-orientation: upright;
+        float:right;
+    }
+
+.footer {
+    background-color:#639438;
+    height:5vh;
+    width:100vw;
+    display:block;
+    text-align:center;
+}
+
+    .footer p {
+        line-height:50px;
+    color:#FFDB70;
+    font-size:20px;
+    }
