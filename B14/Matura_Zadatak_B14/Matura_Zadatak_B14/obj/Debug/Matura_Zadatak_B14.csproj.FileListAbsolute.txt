@@ -1,0 +1,10 @@
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\TextFiles\02.03.2023.txt
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\TextFiles\03.03.2023.txt
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\TextFiles\04.03.2023.txt
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\TextFiles\05.03.2023.txt
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\TextFiles\06.03.2023.txt
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\Matura_Zadatak_B14.dll
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\bin\Matura_Zadatak_B14.pdb
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\obj\Debug\Matura_Zadatak_B14.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\obj\Debug\Matura_Zadatak_B14.dll
+C:\Users\Velja\Desktop\Matura\B14\Matura\B14\Matura_Zadatak_B14\Matura_Zadatak_B14\obj\Debug\Matura_Zadatak_B14.pdb

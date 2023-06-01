@@ -1,0 +1,13 @@
+07:15 | Филм1 | Филм |Images\Film.png
+09:00 | Вести | Информативни програм |Images\Informativni.png
+11:25 | Серија1 | Серија |Images\Serija.png
+12:15 | Емисија1 | Емисија |Images\Emisija.png
+13:30 | Вести | Информативни програм |Images\Informativni.png
+14:15 | Филм2 | Филм |Images\Film.png
+15:45 | Емисија2 | Емисија |Images\Emisija.png
+17:00 | Вести | Информативни програм |Images\Informativni.png
+17:05 | Серија2 | Серија |Images\Serija.png
+18:15 | Емисија3 | Емисија |Images\Emisija.png
+20:10 | Вести | Информативни програм |Images\Informativni.png
+21:15 | Емисија4 | Емисија |Images\Emisija.png
+23:25 | Филм3 | Филм |Images\Film.png
