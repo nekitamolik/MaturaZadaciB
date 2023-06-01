@@ -1,0 +1,127 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+
+.header {
+    width: 100vw;
+    height: 10vh;
+    background-color: #1839b7;
+    color: white;
+}
+
+    .header h1 {
+        padding: 10px 30px;
+        font-size: 45px;
+    }
+
+        .header h1::first-letter {
+            font-size: 55px;
+        }
+
+.menu {
+    height: 50px;
+    width: 100vw;
+    background-color: #121124;
+}
+
+    .menu ul {
+        font-size: 0;
+        padding: 5px 30px;
+    }
+
+        .menu ul li {
+            display: inline-block;
+            width: 100px;
+            border-left: 1px solid #808080;
+            border-right: 1px solid #808080;
+            border-collapse: collapse;
+            text-align: center;
+            line-height: 40px;
+            font-size: 16px;
+            color: white;
+            background-color: #344a63;
+        }
+
+            .menu ul li:hover {
+                color: black;
+                background-color: #808080;
+            }
+
+            .menu ul li a {
+                text-decoration: none;
+                color: inherit;
+            }
+
+.content {
+    min-height: 85vh;
+    width: 100vw;
+}
+
+    .content h1 {
+        padding-left: 50px;
+        padding-top: 30px;
+        color: #808080;
+        font-size: 35px;
+    }
+
+        .content h1::first-letter {
+            font-size: 45px;
+        }
+
+.autobus {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+    .autobus table {
+        border: 1px solid black;
+    }
+
+        
+
+        .dugme {
+            text-align: center;
+            border: 1px solid black;
+            width: 50px;
+            background-color: #2da6bb;
+            border-collapse: collapse;
+        }
+
+        .prolaz{
+            width: 40px;
+            height: 40px;
+            background-color: white;
+            border: none;
+        }
+
+.form {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+
+    .form table td {
+        width: 200px;
+        padding: 5px;
+    }
+
+        .form table td label {
+            font-size: 16px;
+            color: #808080;
+        }
+
+
+
+.footer {
+    height: 5vh;
+    width: 100vw;
+    color: #282828;
+    background-color: #808080;
+    text-align: center;
+}
+
+    .footer p {
+        line-height: 5vh;
+        font-size: 18px;
+    }
