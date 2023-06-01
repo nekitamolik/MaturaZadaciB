@@ -1,0 +1,15 @@
+C:\Users\Velja\Desktop\Matura\B1\Matura\New folder\Matura_Zadatak_B1\Matura_Zadatak_B1\bin\Matura_Zadatak_B1.dll
+C:\Users\Velja\Desktop\Matura\B1\Matura\New folder\Matura_Zadatak_B1\Matura_Zadatak_B1\bin\Matura_Zadatak_B1.pdb
+C:\Users\Velja\Desktop\Matura\B1\Matura\New folder\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B1\Matura\New folder\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.dll
+C:\Users\Velja\Desktop\Matura\B1\Matura\New folder\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.pdb
+C:\Users\Velja\Desktop\Matura\B1\Matura\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\bin\Matura_Zadatak_B1.dll
+C:\Users\Velja\Desktop\Matura\B1\Matura\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\bin\Matura_Zadatak_B1.pdb
+C:\Users\Velja\Desktop\Matura\B1\Matura\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B1\Matura\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.dll
+C:\Users\Velja\Desktop\Matura\B1\Matura\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\bin\Matura_Zadatak_B1.dll
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\bin\Matura_Zadatak_B1.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.dll
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B1\Matura_Zadatak_B1\Matura_Zadatak_B1\obj\Debug\Matura_Zadatak_B1.pdb
