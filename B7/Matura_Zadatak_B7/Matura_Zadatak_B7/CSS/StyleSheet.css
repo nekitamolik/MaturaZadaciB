@@ -1,0 +1,137 @@
+﻿*{
+    padding:0;
+    margin:0;
+    font-family:Arial;
+}
+
+#form1 {
+    height:100vh;
+    width:100vw;
+}
+
+.header {
+    height:10vh;
+    width:100vw;
+    background-color:#4769FF;
+}
+
+    .header h1 {
+        font-size:50px;
+        color:white;
+        font-weight:bold;
+        line-height:10vh;
+        padding-left:30px;
+    }
+
+.menu {
+    height:40px;
+    width:100vw;
+    background-color:#091540;
+}
+    .menu ul {
+        width:100%;
+        padding:5px 15px;
+        font-size:0;
+        
+    }
+.menu ul li {
+    background-color:#0F256B;
+    font-size:16px;
+    color:white;
+    height:100%;
+    width:120px;
+    display:inline-block;
+    text-align:center;
+    line-height:30px;
+    border-left:1px solid #DBDFFA;
+}
+
+    .menu ul li:hover {
+        background-color:#DBDFFA;
+        color:black;
+    }
+
+    .menu ul li a {
+        text-decoration:none;
+        color:inherit;
+    }
+
+.body {
+     width:100vw;
+    height:85vh;
+    background-color:white;
+
+     color:#C2C2C2;
+}
+
+.content {
+    width:40%;
+     float:left;
+         padding:20px 30px;
+}
+
+hr {
+    width:95vw;
+    text-align:center;
+    border:1px solid black;
+}
+
+.headertext h2 {
+    font-size:18px;
+    font-weight:bold;
+}
+
+.acc {
+    display:inline-block;
+    padding:20px 50px;
+}
+
+.reg {
+    color:blue;
+    font-weight:bold;
+}
+
+.form {
+        padding-top:40px;
+}
+
+#panel {
+    height:400px;
+    width:600px;
+}
+
+.input {
+    padding:20px 40px;
+}
+
+.button {
+    height:10px;
+    width:90%;
+    padding:10px 20px;
+}
+
+#ButtonLogin {
+    float:right;
+    height:20px;
+    width:60px;
+}
+
+.footer {
+    height:5vh;
+    width:100vw;
+    background-color:#DBDFFA;
+    text-align:center;
+}
+
+    .footer p {
+        line-height:40px;
+        font-size:16px;
+
+        }
+
+#GV th {
+    text-align:center;
+    font-size:16px;
+    font-weight:bold;
+    column-fill:balance;
+    }
