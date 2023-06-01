@@ -1,0 +1,6 @@
+C:\Users\Velja\Desktop\Matura\B19\Matura\B19\New folder\Matura_Zadatak_B19\Matura_Zadatak_B19\bin\CSS\StyleSheet.css
+C:\Users\Velja\Desktop\Matura\B19\Matura\B19\New folder\Matura_Zadatak_B19\Matura_Zadatak_B19\bin\HTML Pages\Uputstvo.html
+C:\Users\Velja\Desktop\Matura\B19\Matura\B19\New folder\Matura_Zadatak_B19\Matura_Zadatak_B19\bin\Matura_Zadatak_B19.dll
+C:\Users\Velja\Desktop\Matura\B19\Matura\B19\New folder\Matura_Zadatak_B19\Matura_Zadatak_B19\bin\Matura_Zadatak_B19.pdb
+C:\Users\Velja\Desktop\Matura\B19\Matura\B19\New folder\Matura_Zadatak_B19\Matura_Zadatak_B19\obj\Debug\Matura_Zadatak_B19.dll
+C:\Users\Velja\Desktop\Matura\B19\Matura\B19\New folder\Matura_Zadatak_B19\Matura_Zadatak_B19\obj\Debug\Matura_Zadatak_B19.pdb
