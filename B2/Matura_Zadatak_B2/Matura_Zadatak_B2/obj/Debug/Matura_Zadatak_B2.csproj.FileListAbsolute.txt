@@ -1,0 +1,5 @@
+C:\Users\Velja\Desktop\Matura\B2\Matura\B2\Matura_Zadatak_B2\Matura_Zadatak_B2\bin\Matura_Zadatak_B2.dll
+C:\Users\Velja\Desktop\Matura\B2\Matura\B2\Matura_Zadatak_B2\Matura_Zadatak_B2\bin\Matura_Zadatak_B2.pdb
+C:\Users\Velja\Desktop\Matura\B2\Matura\B2\Matura_Zadatak_B2\Matura_Zadatak_B2\obj\Debug\Matura_Zadatak_B2.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B2\Matura\B2\Matura_Zadatak_B2\Matura_Zadatak_B2\obj\Debug\Matura_Zadatak_B2.dll
+C:\Users\Velja\Desktop\Matura\B2\Matura\B2\Matura_Zadatak_B2\Matura_Zadatak_B2\obj\Debug\Matura_Zadatak_B2.pdb
