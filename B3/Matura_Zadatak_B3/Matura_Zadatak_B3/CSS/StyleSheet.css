@@ -1,0 +1,188 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font-family:Arial;
+}
+
+.header {
+    background-color:#FFDB70;
+    width:100vw;
+    text-align:center;
+    height:10vh;
+    line-height:10vh;
+}
+
+    .header h1 {
+        color:#9CB1D3;
+        font-size:40px;
+        font-weight:bold;
+    }
+
+.menu {
+    width:100vw;
+    height:30px;
+    background-color:#CBF1BB;
+}
+
+    .menu ul {
+        list-style:none;
+        line-height:30px;
+        text-align:center;
+    }
+
+        .menu ul li {
+            text-align:center;
+            line-height:30px;
+            width:100px;
+            padding-left:50px;
+            padding-right:50px;
+            display:inline;
+            font-size:24px;
+             color: #639438;   
+        }
+            .menu ul li:hover {
+                background-color:#639438;
+                color:#FFDB70;
+            }
+            .menu ul li a {
+                text-decoration:none;
+                color:inherit;
+            }
+
+.content {
+    background-color:#FFDB70;
+    height:85vh;
+    width:100vw;
+}
+
+.headertext {
+    text-align:center;
+    width:inherit;
+    height:5vh;
+}
+
+    .headertext h2 {
+        padding:10px;
+            color:#9CB1D3;
+            font-size:30px;
+    }
+
+
+
+.body {
+    width:100vw;
+    height:80vh;
+    display:inline-flexbox;
+    flex-direction:row;
+}
+
+.map {
+    height: 80vh;
+    width: 73vw;
+    text-align:center;
+    margin-left:15%;
+    position:absolute;
+}
+
+    .map img {
+        height:800px;
+        width:600px;
+    }
+
+
+.flag {
+    margin-left:15%;
+    height:25px;
+    width:45px;
+    background-size:contain;
+    position:absolute;
+    z-index:1;
+}
+    .flag img {
+    height:20px;
+    width:inherit;
+    background-size:contain;
+    }
+
+    .flag p {
+        color:#9CB1D3;
+        font-size:10px;
+    }
+
+#serbia {
+    top:390px;
+    left:420px;
+}
+
+#albania {
+    top:740px;
+    left:320px;
+}
+
+#montenegro {
+    top:580px;
+    left:230px;
+}
+
+#macedonia {
+    top:750px;
+    left:530px;
+}
+
+#bulgaria {
+    top:630px;
+    left:720px;
+}
+
+#romania {
+     top:170px;
+    left:650px;
+}
+
+
+#bosnia {
+    top:380px;
+    left:190px;
+}
+
+#croatia {
+    top:175px;
+    left:185px;
+}
+
+#hungary {
+    top:10px;
+    left:200px;
+}
+
+.verticaltext {
+    height: 80vh;
+    width: 27vw;
+    text-align:center;
+    float:left;
+}
+
+    .verticaltext p {
+        float:right;
+        margin-bottom:5vh;
+        margin-top:5vh;
+        padding:20px;
+        letter-spacing:10px;
+        font-size: 50px;
+        color: #639438;
+        writing-mode: vertical-rl;
+        text-orientation: upright;
+    }
+
+.footer {
+    background-color:#639438;
+    height:3vh;
+    width:100vw;
+    text-align:center;
+    line-height:30px;
+}
+
+    .footer p {
+        color:#FFDB70;
+        font-size:15px;
+    }

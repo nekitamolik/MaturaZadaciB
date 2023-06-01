@@ -1,0 +1,5 @@
+C:\Users\Velja\Desktop\Matura\B3\Matura\B3\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\bin\Srbija_i_njeni_susedi.dll
+C:\Users\Velja\Desktop\Matura\B3\Matura\B3\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\bin\Srbija_i_njeni_susedi.pdb
+C:\Users\Velja\Desktop\Matura\B3\Matura\B3\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\obj\Debug\Srbija_i_njeni_susedi.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B3\Matura\B3\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\obj\Debug\Srbija_i_njeni_susedi.dll
+C:\Users\Velja\Desktop\Matura\B3\Matura\B3\Srbija_i_njeni_susedi\Srbija_i_njeni_susedi\obj\Debug\Srbija_i_njeni_susedi.pdb
