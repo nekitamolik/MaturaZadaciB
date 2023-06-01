@@ -1,0 +1,14 @@
+Jhon | ABCDE | Zanr1 | 2020 | ABCD | Images\slika5.jpg
+Jhon | ABCDEF | Zanr1 | 2021 | ABCDE | Images\slika2.jpg
+Jack | ABCDE | Zanr1 | 2020 | ABCD | Images\slika5.jpg
+Jack | ABCDEF | Zanr1 | 2021 | ABCDE | Images\slika2.jpg
+Jack | ABCDEFG | Zanr2 | 2022 | ABCDE | Images\slika3.jpg
+Joe | ABCDE | Zanr1 | 2020 | ABCD | Images\slika5.jpg
+Joe | ABCDEF | Zanr1 | 2021 | ABCDE | Images\slika2.jpg
+Joe| ABCDEFG | Zanr2 | 2022 | ABCDE | Images\slika3.jpg
+Joe | ABCDEFGH | Zanr2 | 2019 | ABCD | Images\slika5.jpg
+Ben | ABCDE | Zanr1 | 2020 | ABCD | Images\slika5.jpg
+Ben | ABCDEF | Zanr1 | 2021 | ABCDE | Images\slika2.jpg
+Belise | ABCDE | Zanr1 | 2020 | ABCD | Images\slika5.jpg
+Belise | ABCDEF | Zanr1 | 2021 | ABCDE | Images\slika2.jpg
+Belise | ABCDEFG | Zanr2 | 2022 | ABCDE | Images\slika3.jpg
