@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Prognoza";
+    
+}
+@using Matura_Zadatak_B18.Models
+@model Prognoza
+<link rel="stylesheet" href="~/CSS/StyleSheet.css" />
+<div class="menu">
+    <ul>
+        <li>@Html.ActionLink("Vremenska prognoza", "Prognoza", "Home")</li>
+        <li>@Html.ActionLink("Maksimalne temperature", "MaxTemps", "Home")</li>
+    </ul>
+</div>
+<div class="body">
+   
+<h2>Prognoza</h2>
+    <br />
+     @using (Html.BeginForm("SelectedTown", "Home", FormMethod.Post))
+{
+    <label class="bold">Mesto</label>
+         <select name="DropDownListGrad">
+            @foreach(string x in ViewBag.gradovi){
+              <option value="@x">@x</option>
+            }
+         </select>
+         <input id="Submit" type="submit" value="Prikazi" />
+     }
+    <table id="#prognoza">
+        <tr>
+            <td class="bold">Sifra mesta</td>
+            <td class="bold">@Model.MestoID</td>
+        </tr>
+        <tr>
+            <td class="bold">Nazvi mesta</td>
+            <td class="bold">@Model.NazivMesta</td>
+        </tr>
+        <tr>
+            <td class="bold">Min temperatura</td>
+            <td class="bold">@Model.MinTemperatura</td>
+        </tr>
+        <tr>
+            <td class="bold">Max temperatura</td>
+            <td class="bold">@Model.MaxTemperatura</td>
+        </tr>
+        <tr>
+            <td rowspan="2">
+                @{
+                    string imagepath = "../Images/" + Model.Vreme + ".jpg";
+                    }
+                <img id="vreme" alt="@Model.Vreme" src="@imagepath" />
+            </td>
+        </tr>
+    </table>
+    <br />
+    <br />
+    <br />
+    <label class="footer">&copy; ETS "Nikola Tesla" Nis</label>    
+</div>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Prognoze>
+  <Prognoza>
+    <Mesto>001</Mesto>
+    <NazivMesta>Ниш</NazivMesta>
+    <MinTemperatura>0</MinTemperatura>
+    <MaxTemperatura>10</MaxTemperatura>
+    <Vreme>Ведро</Vreme>
+  </Prognoza>
+  <Prognoza>
+    <Mesto>002</Mesto>
+    <NazivMesta>Београд</NazivMesta>
+    <MinTemperatura>-1</MinTemperatura>
+    <MaxTemperatura>7</MaxTemperatura>
+    <Vreme>Киша</Vreme>
+  </Prognoza>
+  <Prognoza>
+    <Mesto>003</Mesto>
+    <NazivMesta>Копаоник</NazivMesta>
+    <MinTemperatura>-5</MinTemperatura>
+    <MaxTemperatura>0</MaxTemperatura>
+    <Vreme>Снег</Vreme>
+  </Prognoza>
+  <Prognoza>
+    <Mesto>004</Mesto>
+    <NazivMesta>Нови Сад</NazivMesta>
+    <MinTemperatura>5</MinTemperatura>
+    <MaxTemperatura>15</MaxTemperatura>
+    <Vreme>Сунчано</Vreme>
+  </Prognoza>
+  <Prognoza>
+    <Mesto>005</Mesto>
+    <NazivMesta>Лесковац</NazivMesta>
+    <MinTemperatura>-1</MinTemperatura>
+    <MaxTemperatura>7</MaxTemperatura>
+    <Vreme>Киша са грмљавином</Vreme>
+  </Prognoza>
+  <Prognoza>
+    <Mesto>006</Mesto>
+    <NazivMesta>Врање</NazivMesta>
+    <MinTemperatura>-1</MinTemperatura>
+    <MaxTemperatura>5</MaxTemperatura>
+    <Vreme>Облачно</Vreme>
+  </Prognoza>
+</Prognoze>

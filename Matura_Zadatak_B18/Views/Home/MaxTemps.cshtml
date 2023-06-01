@@ -1,0 +1,41 @@
+﻿@{
+    ViewBag.Title = "MaxTemps";
+}
+@using Matura_Zadatak_B18.Models;
+@model IEnumerable<Prognoza>
+<link rel="stylesheet" href="~/CSS/StyleSheet.css" />
+<div class="menu">
+    <ul>
+        <li>@Html.ActionLink("Vremenska prognoza", "Prognoza", "Home")</li>
+        <li>@Html.ActionLink("Maksimalne temperature", "MaxTemps", "Home")</li>
+    </ul>
+</div>
+<div class="body">
+<h2>Maksimalne Temperature</h2>
+    <br />
+    <table id="maxtemp">
+        <tr>
+            <th>Sifra</th>
+            <th>NazivMesta</th>
+            <th>MaxTemperatura</th>
+        </tr>
+        @foreach (var item in Model) 
+        {
+            <tr>
+                <td>
+                    @item.MestoID
+                </td>
+                <td>
+                    <a href="@Url.Action("ClickedTown", "Home", new { town = item.NazivMesta })">@item.NazivMesta</a>
+                </td>
+                <td>
+                    @item.MaxTemperatura
+                </td>
+            </tr>        
+        }
+    </table>
+    <br />
+    <br />
+    <br />
+    <label class="footer">&copy; ETS "Nikola Tesla" Nis</label>    
+</div>
