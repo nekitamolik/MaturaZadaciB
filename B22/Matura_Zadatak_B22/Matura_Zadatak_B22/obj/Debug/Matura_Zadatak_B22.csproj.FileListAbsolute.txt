@@ -1,0 +1,16 @@
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\CSS\StyleSheet.css
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\HTML Pages\O autoru.html
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\JavaScript\Main.js
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\Matura_Zadatak_B22.dll
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\Matura_Zadatak_B22.pdb
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\obj\Debug\Matura_Zadatak_B22.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\obj\Debug\Matura_Zadatak_B22.dll
+C:\Users\Velja\Desktop\Matura\B22\Matura\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\obj\Debug\Matura_Zadatak_B22.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\CSS\StyleSheet.css
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\HTML Pages\O autoru.html
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\JavaScript\Main.js
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\Matura_Zadatak_B22.dll
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\bin\Matura_Zadatak_B22.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\obj\Debug\Matura_Zadatak_B22.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\obj\Debug\Matura_Zadatak_B22.dll
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B22\Matura_Zadatak_B22\Matura_Zadatak_B22\obj\Debug\Matura_Zadatak_B22.pdb

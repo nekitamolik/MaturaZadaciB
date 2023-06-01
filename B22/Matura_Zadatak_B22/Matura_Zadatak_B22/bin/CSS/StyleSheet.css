@@ -1,0 +1,117 @@
+﻿*{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+
+.header {
+    width:100vw;
+    height:10vh;
+    background-color:#2119ca;
+}
+
+    .header ul {
+        font-size:0;
+    }
+
+        .header ul li {
+            font-size:18px;
+            color:white;
+            border-left:1px solid white;
+            border-collapse:collapse;
+            display:inline-block;
+            text-align:center;
+            line-height:10vh;
+            width:200px;
+        }
+
+
+
+.content {
+    min-height:80vh;
+    width:96vw;
+    margin:2%;
+    text-align:center;
+}
+
+.content h1 {
+    color:black;
+    font-size:64px;
+}
+
+     #Tabela {
+        width:50%;
+        margin-left:25%;
+        border:1px solid black;
+            border-collapse:collapse;
+    }
+
+        #Tabela th{
+            border:1px solid black;
+            border-collapse:collapse;
+            background-color:#808080;
+        }
+
+            #Tabela th a {
+                font-size:22px;
+            color:#6b097a;
+
+            }
+        #Tabela td {
+            text-align:left;
+            border:1px solid black;
+            border-collapse:collapse;
+        }
+
+.tasteri {
+    width:50%;
+        margin-left:25%;
+}
+
+hr {
+    width:90%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+.footer {
+    width:100vw;
+    height:10vh;
+    background-color:#2119ca; 
+}
+
+    .footer table {
+        width:95%;
+        height:100%;
+        margin-left:5%;
+    }
+
+        .footer table td {
+            font-size:18px;
+            color:white;
+             text-align:center;
+            line-height:10vh;
+            width:200px;
+        }
+
+            .footer table td:hover {
+                background-color:white;
+                color:black;
+            }
+
+            .footer table td:first-child {
+                width:auto;
+                text-align:left;
+                
+            }
+
+                .footer table td:first-child:hover {
+                    background-color:#2119ca;
+                    color:white;
+                }
+
+            .footer table td a {
+                color:inherit;
+                text-decoration:underline;
+            }
