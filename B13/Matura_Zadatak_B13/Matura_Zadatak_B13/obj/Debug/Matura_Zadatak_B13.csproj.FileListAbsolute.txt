@@ -1,0 +1,12 @@
+C:\Users\Velja\Desktop\Matura\B13\Matura\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\bin\Source\imenik.txt
+C:\Users\Velja\Desktop\Matura\B13\Matura\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\bin\Matura_Zadatak_B13.dll
+C:\Users\Velja\Desktop\Matura\B13\Matura\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\bin\Matura_Zadatak_B13.pdb
+C:\Users\Velja\Desktop\Matura\B13\Matura\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\obj\Debug\Matura_Zadatak_B13.csprojResolveAssemblyReference.cache
+C:\Users\Velja\Desktop\Matura\B13\Matura\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\obj\Debug\Matura_Zadatak_B13.dll
+C:\Users\Velja\Desktop\Matura\B13\Matura\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\obj\Debug\Matura_Zadatak_B13.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\bin\Source\imenik.txt
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\bin\Matura_Zadatak_B13.dll
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\bin\Matura_Zadatak_B13.pdb
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\obj\Debug\Matura_Zadatak_B13.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\obj\Debug\Matura_Zadatak_B13.dll
+C:\Users\Intel\Desktop\matura zadaci\Matura_Zadaci\Matura_Zadaci\B13\Matura_Zadatak_B13\Matura_Zadatak_B13\obj\Debug\Matura_Zadatak_B13.pdb
