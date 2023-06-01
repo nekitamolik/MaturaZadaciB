@@ -1,0 +1,10 @@
+00001Telefon1                 Proizvodjac1        1GB  Dual Core      Kamera1   Ekran1    TextImages/Phone1.jpg         21.580 RSD
+00002Telefon2                 Proizvodjac2        2GB  Single Core    Kamera2   Ekran2    TextImages/Phone2.jpg         22.480 RSD
+00003Telefon3                 Proizvodjac3        1.5GBQuad Core      Kamera3   Ekran3    TextImages/Phone3.jpg         23.380 RSD
+00004Telefon4                 Proizvodjac4        512MBDual Core      Kamera4   Ekran4    TextImages/Phone4.jpg         24.280 RSD
+00005Telefon5                 Proizvodjac5        3GB  Quad Core      Kamera5   Ekran5    TextImages/Phone5.jpg         25.180 RSD
+00006Telefon6                 Proizvodjac1        1GB  Single Core    Kamera1   Ekran1    TextImages/Phone1.jpg         21.580 RSD
+00007Telefon7                 Proizvodjac2        2GB  Dual Core      Kamera2   Ekran2    TextImages/Phone2.jpg         22.480 RSD
+00008Telefon8                 Proizvodjac3        1.5GBDual Core      Kamera3   Ekran3    TextImages/Phone3.jpg         23.380 RSD
+00009Telefon9                 Proizvodjac2        512MBSingle Core    Kamera4   Ekran4    TextImages/Phone4.jpg         24.280 RSD
+000010Telefon10               Proizvodjac1        3GB  Quad Core      Kamera5   Ekran5    TextImages/Phone5.jpg         25.180 RSD

@@ -1,0 +1,167 @@
+﻿*{
+    margin:0;
+    padding:0;
+    font-family:Arial;
+}
+
+.header {
+    width:100vw;
+    height:10vh;
+    background-color:#2119ca;
+}
+
+    .header ul {
+        font-size:0;
+    }
+
+        .header ul li {
+            font-size:18px;
+            color:white;
+            border-left:1px solid white;
+            border-collapse:collapse;
+            display:inline-block;
+            text-align:center;
+            line-height:10vh;
+            width:200px;
+        }
+
+
+
+.content {
+    min-height:80vh;
+    width:96vw;
+    margin:2%;
+}
+
+.headertext {
+    width:100%;
+    height:15vh;
+    display:inline-block;
+}
+
+.headertext h2 {
+    text-align:center;
+    margin-left:200px;
+    line-height:15vh;
+    color:#2119ca;
+    font-size:40px;
+    font-weight:bold;
+}
+
+#image {
+    float:left;
+}
+
+h1 {
+    width:100%;
+    height:3px;
+    color:#808080;
+}
+
+.search {
+    height:10%;
+    width:100%;
+}
+
+    .search table {
+        width:100%;
+    }
+
+        .search table td {
+            text-align:left;
+        }
+
+.label {
+    font-size:16px;
+}
+
+
+
+.GV {
+    height:90%;
+    width:100%;
+}
+
+#GV {
+    border:none;
+    width:100%;
+}
+
+    #GV th {
+        background-color:#2119ca;
+        color:white;
+        font-weight:bold;
+        font-size:18px;
+    }
+
+    #GV td {
+        color:black;
+        font-size:14px;
+    }
+
+    #GV{
+        border-top:1px solid black;
+        border-collapse:collapse;
+    }
+
+
+.slika {
+    width:250px;
+    height:450px;
+}
+
+.name {
+    font-size:44px;
+    font-weight:bold;
+}
+
+.cena {
+    font-size:64px;
+    font-weight:bold;
+    text-align:center;
+}
+
+.stats {
+    font-size:16px;
+}
+
+.footer {
+    width:100vw;
+    height:10vh;
+    background-color:#2119ca; 
+}
+
+    .footer table {
+        width:95%;
+        height:100%;
+        margin-left:5%;
+    }
+
+        .footer table td {
+            font-size:18px;
+            color:white;
+             text-align:center;
+            line-height:10vh;
+            width:200px;
+        }
+
+            .footer table td:hover {
+                background-color:white;
+                color:black;
+            }
+
+            .footer table td:first-child {
+                width:auto;
+                text-align:left;
+                
+            }
+
+                .footer table td:first-child:hover {
+                    background-color:#2119ca;
+                    color:white;
+                }
+
+            .footer table td a {
+                color:inherit;
+                text-decoration:underline;
+            }
