@@ -1,0 +1,31 @@
+16 MVC
+.NET Framework 4.5
+ASP.NET MVC 4 Web Application
+Empty
+Razor
+Views
+Desni klik>add new folder koji se zove „Home“
+Add view u „Home“ koji se zove „Upload“ sa View Engine Razor (CSHTML)
+Add view u „Home“ koji se zove „Raspored“ sa View Engine Razor (CSHTML)
+„Models“>Add>Class>“RasporedModel.cs“
+Copy paste iz github
+„Controllers“>Add>Controller>“HomeController“>MVC controller with empty read/write actions>Add
+Raw pase u HomeController iz github
+App_Start>RouteConfig.cs>na defaults umesto „Default“ pises „Home“, umesto „Index“ pises „Upload“
+Desni klik na Controllers add class koji se zove „ReadXMLRaspored“
+Raw paste iz github
+Pises using System.Xml;
+Kod RaspodelModel zamenis sa Models.RaspodelModel svuda
+U HomeController.cs sklonis Models od ReadXMLRaspored i dodajes using System.IO;
+Dodaje se novi folder generalno koji se zove XML
+Ubacuje se XML file u folder
+Show All Files u visual kliknes i include XML u project
+Kliknes na XML i u properties i pretisnes da je Copy if newer na Copy to Output
+To se stavi na sve klase i kontroleri sto su dodati
+Gasis show all files
+Otvaras oba pogleda (Views>Home) i nadjes pogled u github, Upload selektujes kopiras i pasteujes i saveujes, u Raspored paste isto, izmeni naziv da se poklapa i saveujes
+Add>New Folder>CSS
+Add Style sheet u folder
+Raw copy paste iz css od github i save
+HomeController gde je „Display“ stavis „Raspored“
+I sad samo pokrenes i molis se Bogu najmilijem najlepsim

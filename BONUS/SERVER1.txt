@@ -1,0 +1,4 @@
+C>inetpub>wwwroot
+Start Menu>IIS Manager>Računar>Sites
+Visual Studio>2.0 Framework>ASP Web Application>otvori folder lokaciju od projekat i kopiraj sve
+IIS program desni klik na Sites>Refresh>Add New Site>nazovi ko svoje ime>Physical Path>Host name: localhost

@@ -1,0 +1,16 @@
+C:/inetpub/wwwroot tu se nalazi sajt
+Pokreni IIS Manager
+Internet Information Services
+Otvori tvoj komp padajuci meni, pa sites
+Otvori visual
+Novi projekat FW 2.0
+Za MVC 4.5
+Za Service 3.5
+Build Solution
+Nadji gde se nalazi projekat na racunaru
+Kopiramo samo folder koji je zajedno  sa solution file u C:/inetpub/wwwroot
+Desni klik na Sites u IIS
+Refresh pa Add Web Site
+Site name: ime od sajt
+Physical path: nadjemo sajt gde je u C:/inetpub/wwwroot
+Host name: localhost
